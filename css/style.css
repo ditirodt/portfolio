@@ -9,11 +9,17 @@
 }
 
 :root{
-    -moz-binding1;
+    --bg-color: #1f1f21;
     --text-color: #fff;
     --main-color: #ffae00;
 
     --big-font: 7rem; 
     --p-font: 1.1rem;
     
+}
+
+body{
+    background: var(--bg-color);
+    color: var(--text-color);
+    overflow: hidden;
 }
