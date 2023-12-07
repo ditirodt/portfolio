@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Rubik', sans-serif;
+    list-style: none;
+    text-decoration: none;
+
+}
+
+:root{
+    -moz-binding1;
+    --text-color: #fff;
+    --main-color: #ffae00;
+
+    --big-font: 7rem; 
+    --p-font: 1.1rem;
+    
+}
